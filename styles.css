@@ -1,0 +1,25 @@
+
+.wrapper{
+    border: 1px solid #000;
+    width: 440px;
+    display: flex;
+    flex-wrap: wrap;
+    margin:0 auto;
+}
+.display{
+    width:100%;
+    border:1px solid #999;
+    font-size:26px;
+}
+.numbers{
+    width: 315px;
+    margin: 5px;
+}
+.actions{
+    width:100px;
+    margin:5px;
+}
+.btn{
+    width:100px;
+    font-size:26px;
+}
